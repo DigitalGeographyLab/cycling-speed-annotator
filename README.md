@@ -10,6 +10,13 @@ metropolitan
 area](https://github.com/DigitalGeographyLab/Helsinki-Travel-Time-Matrices).
 
 
+## Installation
+
+```
+pip install git+https://github.com/DigitalGeographyLab/cycling-speed-annotator.git
+```
+
+
 ## Use
 
 Instantiate a `CyclingSpeedAnnotator()`, passing a `pandas.DataFrame` with
